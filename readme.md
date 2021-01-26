@@ -6,3 +6,7 @@ After making changes (Deleting file, adding file or editing file), run the follo
 - `git push`
 
 To get the latest changes from the remote reposirory run `git pull`
+
+Angular projects:
+
+https://github.com/YaakovHatam/jbh-animals
